@@ -1,374 +1,195 @@
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#FFF">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-
-<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
-  <meta http-equiv="Cache-Control" content="no-transform">
-  <meta http-equiv="Cache-Control" content="no-siteapp">
-
-
-<link rel="alternate" type="application/rss+xml" title="Hexo" href="http://example.com/rss.xml" />
-<link rel="alternate" type="application/atom+xml" title="Hexo" href="http://example.com/atom.xml" />
-<link rel="alternate" type="application/json" title="Hexo" href="http://example.com/feed.json" />
-
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
-
-<link rel="stylesheet" href="/css/app.css?v=0.2.5">
-
-  
-
-<link rel="canonical" href="http://example.com/2022/10/21/%E5%AE%9D%E8%B4%9D%E5%84%BF/">
-
-
-
-  <title>
-宝贝儿 |
-Yume Shoka = Hexo</title>
-<meta name="generator" content="Hexo 6.3.0"><link rel="stylesheet" href="/css/prism.css" type="text/css"></head>
-<body itemscope itemtype="http://schema.org/WebPage">
-  <div id="loading">
-    <div class="cat">
-      <div class="body"></div>
-      <div class="head">
-        <div class="face"></div>
-      </div>
-      <div class="foot">
-        <div class="tummy-end"></div>
-        <div class="bottom"></div>
-        <div class="legs left"></div>
-        <div class="legs right"></div>
-      </div>
-      <div class="paw">
-        <div class="hands left"></div>
-        <div class="hands right"></div>
-      </div>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+        <title>宝贝儿 | Hexo</title>
+        <meta name="author" content="vconlln">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <link rel="icon" href="https://img2.woyaogexing.com/2020/06/01/e1d5a24a5e514c249625b37c98ad3b7c!400x400.jpeg">
+        <script src="https://cdn.staticfile.org/instant.page/5.1.0/instantpage.min.js" type="module"></script>
+        <script src="https://cdn.staticfile.org/font-awesome/6.2.0/js/all.min.js"></script>
+        
+        <link rel="stylesheet" href="/css/fonts.min.css">
+        <link rel="stylesheet" href="/css/particlex.css">
+        
+        <script src="https://cdn.staticfile.org/vue/3.2.33/vue.global.prod.min.js"></script>
+    <meta name="generator" content="Hexo 6.3.0"><link rel="stylesheet" href="/css/prism.css" type="text/css"></head>
+    <body>
+        <div id="loading" style="height:100vh;width:100vw;position:fixed;display:flex;z-index:200;justify-content:space-between;background:#fff;transition:opacity 0.3s ease-out"><div style="position:fixed;height:100vh;width:100vw;display:flex;justify-content:center;align-items:center"><div id="loadcontent" style="width:50vmin;height:50vmin;padding:50px;border-radius:50%;display:flex;justify-content:center;align-items:center;border:solid 10px #a3ddfb;text-align:center"><div><h2>LOADING...</h2><p style="word-break:keep-all">加载过慢请开启缓存(浏览器默认开启)</p><div><img alt="loading" src="/loading.gif"></div></div></div></div></div>
+        <div id="layout">
+            <i data-fa-symbol="calendar-solid" class="fa-solid fa-calendar fa-fw"></i>
+            <i data-fa-symbol="bookmark-solid" class="fa-solid fa-bookmark fa-fw"></i>
+            <i data-fa-symbol="tags-solid" class="fa-solid fa-tags fa-fw"></i>
+            <transition name="into">
+                <div v-show="show_page" style="display: -not-none">
+                    <div id="menu_show">
+                         
+<nav id="menu">
+    <div class="desktop-menu">
+        <a href="/">
+            <span class="title">Hexo</span>
+        </a>
+        
+        <a href="/">
+            <i class="fa-solid fa-house fa-fw"></i>
+            <span>&ensp;home</span>
+        </a>
+        
+        <a href="/about">
+            <i class="fa-solid fa-id-card fa-fw"></i>
+            <span>&ensp;about</span>
+        </a>
+        
+        <a href="/archives">
+            <i class="fa-solid fa-box-archive fa-fw"></i>
+            <span>&ensp;archives</span>
+        </a>
+        
+        <a href="/categories">
+            <i class="fa-solid fa-bookmark fa-fw"></i>
+            <span>&ensp;categories</span>
+        </a>
+        
+        <a href="/tags">
+            <i class="fa-solid fa-tags fa-fw"></i>
+            <span>&ensp;tags</span>
+        </a>
+        
     </div>
-  </div>
-  <div id="container">
-    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="inner">
-        <div id="brand">
-          <div class="pjax">
-          
-  <h1 itemprop="name headline">宝贝儿
-  </h1>
-  
-<div class="meta">
-  <span class="item" title="Created: 2022-10-21 13:25:08">
-    <span class="icon">
-      <i class="ic i-calendar"></i>
-    </span>
-    <span class="text">Posted on</span>
-    <time itemprop="dateCreated datePublished" datetime="2022-10-21T13:25:08+08:00">2022-10-21</time>
-  </span>
-</div>
-
-
-          </div>
+    <div :class="'phone-menu ' + menu_show" id="phone-menu">
+        <div class="curtain" @click="menu_show = !menu_show" v-show="menu_show"></div>
+        <div :class="'title'" @click="menu_show = !menu_show">
+            <i class="fa-solid fa-bars fa-fw"></i>
+            <span>&emsp;Hexo</span>
         </div>
-        <nav id="nav">
-  <div class="inner">
-    <div class="toggle">
-      <div class="lines" aria-label="Toggle navigation bar">
-        <span class="line"></span>
-        <span class="line"></span>
-        <span class="line"></span>
-      </div>
-    </div>
-    <ul class="menu">
-      <li class="item title"><a href="/" rel="start">Yume Shoka</a></li>
-    </ul>
-    <ul class="right">
-      <li class="item theme">
-        <i class="ic i-sun"></i>
-      </li>
-      <li class="item search">
-        <i class="ic i-search"></i>
-      </li>
-    </ul>
-  </div>
-</nav>
-
-      </div>
-      <div id="imgs" class="pjax">
-        <ul>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclffsa1cj20zk0m811l.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gipesng5oej20zk0m87d4.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gicivghyooj20zk0m8dir.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gipev1x5e4j20zk0m8b29.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gipey0a334j20zk0m8qpt.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclxp31goj20zk0m8qv5.jpg"></li>
-        </ul>
-      </div>
-    </header>
-    <div id="waves">
-      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
-        <defs>
-          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-        </defs>
-        <g class="parallax">
-          <use xlink:href="#gentle-wave" x="48" y="0" />
-          <use xlink:href="#gentle-wave" x="48" y="3" />
-          <use xlink:href="#gentle-wave" x="48" y="5" />
-          <use xlink:href="#gentle-wave" x="48" y="7" />
-        </g>
-      </svg>
-    </div>
-    <main>
-      <div class="inner">
-        <div id="main" class="pjax">
-          
-  <div class="article wrap">
-    
-<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-<i class="ic i-home"></i>
-<span><a href="/">Home</a></span>
-</div>
-
-    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="en">
-  <link itemprop="mainEntityOfPage" href="http://example.com/2022/10/21/%E5%AE%9D%E8%B4%9D%E5%84%BF/">
-
-  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <meta itemprop="image" content="/images/avatar.jpg">
-    <meta itemprop="name" content="John Doe">
-    <meta itemprop="description" content=", ">
-  </span>
-
-  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="Hexo">
-  </span>
-
-  <div class="body md" itemprop="articleBody">
-    
-
-    
-  </div>
-
-   <footer>
-
-    <div class="meta">
-</div>
-
-      
-<div class="reward">
-  <button><i class="ic i-heartbeat"></i> Donate</button>
-  <p>Give me a cup of [coffee]~(￣▽￣)~*</p>
-  <div id="qr">
-      
-      <div>
-        <img data-src="/images/wechatpay.png" alt="John Doe WeChat Pay">
-        <p>WeChat Pay</p>
-      </div>
-      
-      <div>
-        <img data-src="/images/alipay.png" alt="John Doe Alipay">
-        <p>Alipay</p>
-      </div>
-      
-      <div>
-        <img data-src="/images/paypal.png" alt="John Doe PayPal">
-        <p>PayPal</p>
-      </div>
-  </div>
-</div>
-
-      
-
-<div id="copyright">
-<ul>
-  <li class="author">
-    <strong>Post author:  </strong>John Doe <i class="ic i-at"><em>@</em></i>Hexo
-  </li>
-  <li class="link">
-    <strong>Post link: </strong>
-    <a href="http://example.com/2022/10/21/%E5%AE%9D%E8%B4%9D%E5%84%BF/" title="宝贝儿">http://example.com/2022/10/21/宝贝儿/</a>
-  </li>
-  <li class="license">
-    <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> unless stating additionally.
-  </li>
-</ul>
-</div>
-
-  </footer>
-
-</article>
-
-  </div>
-  
-
-<div class="post-nav">
-    <div class="item left">
-      
-
-  <a href="/2022/10/21/hello-world/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva4.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giph4fomxoj20zk0m8axp.jpg" title="Hello World">
-  <span class="type">Previous Post</span>
-  <span class="category"><i class="ic i-flag"></i> </span>
-  <h3>Hello World</h3>
-  </a>
-
-    </div>
-    <div class="item right">
-    </div>
-</div>
-
-  
-  <div class="wrap" id="comments"></div>
-
-
+        <transition name="slide">
+        <div class="items" v-show="menu_show">
+            
+            <a href="/">
+                <div class="item">
+                    <div style="min-width: 20px; max-width: 50px; width: 10%">
+                        <i class="fa-solid fa-house fa-fw"></i>
+                    </div>
+                    <div style="min-width: 100px; max-width: 150%; width: 20%">home</div>
+                </div>
+            </a>
+            
+            <a href="/about">
+                <div class="item">
+                    <div style="min-width: 20px; max-width: 50px; width: 10%">
+                        <i class="fa-solid fa-id-card fa-fw"></i>
+                    </div>
+                    <div style="min-width: 100px; max-width: 150%; width: 20%">about</div>
+                </div>
+            </a>
+            
+            <a href="/archives">
+                <div class="item">
+                    <div style="min-width: 20px; max-width: 50px; width: 10%">
+                        <i class="fa-solid fa-box-archive fa-fw"></i>
+                    </div>
+                    <div style="min-width: 100px; max-width: 150%; width: 20%">archives</div>
+                </div>
+            </a>
+            
+            <a href="/categories">
+                <div class="item">
+                    <div style="min-width: 20px; max-width: 50px; width: 10%">
+                        <i class="fa-solid fa-bookmark fa-fw"></i>
+                    </div>
+                    <div style="min-width: 100px; max-width: 150%; width: 20%">categories</div>
+                </div>
+            </a>
+            
+            <a href="/tags">
+                <div class="item">
+                    <div style="min-width: 20px; max-width: 50px; width: 10%">
+                        <i class="fa-solid fa-tags fa-fw"></i>
+                    </div>
+                    <div style="min-width: 100px; max-width: 150%; width: 20%">tags</div>
+                </div>
+            </a>
+            
         </div>
-        <div id="sidebar">
-          
-
-<div class="inner">
-
-  <div class="panels">
-    <div class="inner">
-      <div class="contents panel pjax" data-title="Contents">
-      </div>
-      <div class="related panel pjax" data-title="Related">
-      </div>
-      <div class="overview panel" data-title="Overview">
-        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <img class="image" itemprop="image" alt="John Doe"
-      data-src="/images/avatar.jpg">
-  <p class="name" itemprop="name">John Doe</p>
-  <div class="description" itemprop="description"></div>
-</div>
-
-<nav class="state">
-    <div class="item posts">
-      <a href="/archives/">
-        <span class="count">2</span>
-        <span class="name">posts</span>
-      </a>
+        </transition>
     </div>
 </nav>
-
-<div class="social">
-</div>
-
-<ul class="menu">
-  
-    
-  <li class="item">
-    <a href="/" rel="section"><i class="ic i-home"></i>Home</a>
-  </li>
-
-
-</ul>
-
-      </div>
+                    </div>
+                    <div id="main">
+                        
+<div class="article">
+    <div>
+        <h1>宝贝儿 </h1>
     </div>
-  </div>
-
-  <ul id="quick">
-    <li class="prev pjax">
-    </li>
-    <li class="up"><i class="ic i-arrow-up"></i></li>
-    <li class="down"><i class="ic i-arrow-down"></i></li>
-    <li class="next pjax">
-    </li>
-    <li class="percent"></li>
-  </ul>
+    <div class="info">
+        <span class="date">
+            <span class="icon">
+                <svg class="fa-icon"><use xlink:href="#calendar-solid"></use></svg>
+            </span>
+            2022/10/21
+        </span>
+        
+        
+    </div>
+    <div class="content" v-pre>
+        
+    </div>
+    
+    
+    <link rel="stylesheet" href="https://cdn.staticfile.org/waline/2.9.1/waline.min.css" />
+    <div id="comment">
+        <div id="waline-container"></div>
+    </div>
+    
 </div>
-
-
+                         
+<footer id="footer">
+    <div class="footer-wrap">
+        <div>
+            © 20xx - 2022 Hexo
+            <span class="footer-icon">
+                <i class="fa-solid fa-font-awesome fa-fw"></i>
+            </span>
+            @vconlln
         </div>
-        <div class="dimmer"></div>
-      </div>
-    </main>
-    <footer id="footer">
-      <div class="inner">
-        <div class="widgets">
-          
-<div class="rpost pjax">
-  <h2>Random Posts</h2>
-  <ul>
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/2022/10/21/%E5%AE%9D%E8%B4%9D%E5%84%BF/" title="宝贝儿">宝贝儿</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/2022/10/21/hello-world/" title="Hello World">Hello World</a></span>
-  </li>
-
-  </ul>
-</div>
-<div>
-  <h2>Recent Comments</h2>
-  <ul class="leancloud-recent-comment"></ul>
-</div>
-
+        <div></div>
+        <div>Based on the <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo Engine</a> & <a
+                target="_blank" rel="noopener" href="https://github.com/argvchs/hexo-theme-particlex">ParticleX Theme</a></div>
+        
+    </div>
+</footer>
+                    </div>
+                </div>
+            </transition>
+            <div id="img_show">
+                <img id="img_content" alt="img_show">
+            </div>
         </div>
-        <div class="status">
-  <div class="copyright">
-    
-    &copy; 2010 – 
-    <span itemprop="copyrightYear">2022</span>
-    <span class="with-love">
-      <i class="ic i-sakura rotate"></i>
-    </span>
-    <span class="author" itemprop="copyrightHolder">John Doe @ Yume Shoka</span>
-  </div>
-  <div class="powered-by">
-    Powered by <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
-  </div>
-</div>
+        <script src="https://cdn.staticfile.org/highlight.js/11.5.1/highlight.min.js"></script>
+        <script src="/js/particlex.js"></script>
+        <script src="/js/showimg.js"></script>
+        
 
-      </div>
-    </footer>
-  </div>
-<script data-config type="text/javascript">
-  var LOCAL = {
-    path: '2022/10/21/宝贝儿/',
-    favicon: {
-      show: "（●´3｀●）Goooood",
-      hide: "(´Д｀)Booooom"
-    },
-    search : {
-      placeholder: "Search for Posts",
-      empty: "We didn't find any results for the search: ${query}",
-      stats: "${hits} results found in ${time} ms"
-    },
-    valine: true,fancybox: true,
-    copyright: 'Copied to clipboard successfully! <br> All articles in this blog are licensed under <i class="ic i-creative-commons"></i>BY-NC-SA.',
-    ignores : [
-      function(uri) {
-        return uri.includes('#');
-      },
-      function(uri) {
-        return new RegExp(LOCAL.path+"$").test(uri);
-      }
-    ]
-  };
+<script src="https://cdn.staticfile.org/waline/2.9.1/waline.min.js"></script>
+<script>
+    Waline.init({
+        el: '#waline-container',
+        serverURL: "",
+        commentCount: true,
+        pageview: false,
+        emoji: "https://unpkg.com/@waline/emojis@1.0.1/weibo,https://unpkg.com/@waline/emojis@1.0.1/alus,https://unpkg.com/@waline/emojis@1.0.1/bilibili,https://unpkg.com/@waline/emojis@1.0.1/qq,https://unpkg.com/@waline/emojis@1.0.1/tieba,https://unpkg.com/@waline/emojis@1.0.1/tw-emoji".split(','),
+        meta: "nick,mail,link".split(','),
+        requiredMeta: "nick".split(','),
+        lang: "zh-CN",
+        wordLimit: parseInt("0"),
+        pageSize: "10",
+        login: "enable",
+        locale: {}
+    });
 </script>
 
-<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
-
-<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
-
-<script src="/js/app.js?v=0.2.5"></script>
-
-
-
-
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"jsonPath":"/live2dw/assets/haruto.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":false},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
+    <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"jsonPath":"/live2dw/assets/haruto.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":false},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
 </html>
