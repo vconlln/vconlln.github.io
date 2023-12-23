@@ -1,67 +1,67 @@
 /2023/12/02/hello-world/index.html
 	https://vconlln.cn/2023/12/02/hello-world/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/2023/12/02/hello-world/index.html
-	hash=FOoPbkPw5fvZUwW9bXapEAQWlrsOjLJblXtsG0o1NsI=
+	hash=TJ7kAK2rN9IaElCOozYqMyi03xZJKbI5RE1DhssEVy4=
 
 /2023/12/03/test/index.html
 	https://vconlln.cn/2023/12/03/test/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/2023/12/03/test/index.html
-	hash=EAeLPgpv8VZs8D0FPxEcIyEAZeD0ynDz4FVRfhfWzYY=
+	hash=HrmChEh27Ok0S5UqsHW77NKBBEf9GEQapUfizORNP1U=
 
 /2023/12/06/archlinux下安装mysql/index.html
 	https://vconlln.cn/2023/12/06/archlinux下安装mysql/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/2023/12/06/archlinux下安装mysql/index.html
-	hash=V8dSdbt40E0Za2fcUOmk417AcQGMcVDKJ+MowgWrQgU=
+	hash=E3nMtmz0P/wexQ80qYfmf/ww8DifyVn68ldQzpAeI6k=
 
 /2023/12/20/博客接入freecdn/index.html
 	https://vconlln.cn/2023/12/20/博客接入freecdn/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/2023/12/20/博客接入freecdn/index.html
-	hash=/7Rb9SJGa/gSnCUvH3/Q/QvJmieXvg50IbEcIwTCnSQ=
+	hash=HM7zAZhAlIEML+u6L6v3MQXQlTpwd/3uqt1L+8p9bBQ=
 
 /2023/12/22/一天一个上网小技巧/index.html
 	https://vconlln.cn/2023/12/22/一天一个上网小技巧/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/2023/12/22/一天一个上网小技巧/index.html
-	hash=AImX0LDLxYtNFSOsy4waP0Vetj0CdCxXLqvyxKJnl9s=
+	hash=sbP7eqssCqNS6MZ1mp6IlAKTy9Itix7mH5+dEjCC9JM=
 
 /2023/12/22/小破站的加速方案/index.html
 	https://vconlln.cn/2023/12/22/小破站的加速方案/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/2023/12/22/小破站的加速方案/index.html
-	hash=eL8NC5LJOyVWqgo9cuJw5+QvHhhGsDScjVljJIOXEv8=
+	hash=E7tfQh0dWYAeCBaalO8Sphe4TBP83vlZCIOkp5An9/E=
 
 /about/index.html
 	https://vconlln.cn/about/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/about/index.html
-	hash=vqHHa530EpHdQAxsiprBF2UZeQpQOCUWr3PFXlMSzYE=
+	hash=tTl9dL9AEeOaWZwvufsNZOk7FpCDYCO/vhg+iYraw2w=
 
 /archives/2023/12/index.html
 	https://vconlln.cn/archives/2023/12/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/archives/2023/12/index.html
-	hash=BEa64rdK/LEgo0hyqTBjMChf/ozY+/jB0j8459I4Zmo=
+	hash=Z4lugtR3Awwvy7oNGw/KazbIR8bFlqe1LNSUJEqgHn0=
 
 /archives/2023/index.html
 	https://vconlln.cn/archives/2023/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/archives/2023/index.html
-	hash=LYU0JscBjJCEYOzMSg7sfAWn6gJ344AKxRAS7CJdQRw=
+	hash=j+1ZKf9mPaPuCFDAtcEHkB5VPJG7NwiUounwfJt9p6c=
 
 /archives/index.html
 	https://vconlln.cn/archives/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/archives/index.html
-	hash=i3oTFcnanfgkeFaY94AAEiXhRQBE0E4VamBIZ1Jh5cw=
+	hash=ITUNzE32raYbogrQ5vNZA2NWMgw8IFbbtjFIsN8J7Dw=
 
 /categories/Archlinux/index.html
 	https://vconlln.cn/categories/Archlinux/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/categories/Archlinux/index.html
-	hash=54BVRvJ/DusYKICyLlHuErTY7/S17nb4r72WyBSPRis=
+	hash=ANWqF5I2RbRlQsS5U/HjcIoaMYiuk3ZFZUU9Dyh8bng=
 
 /categories/blog/index.html
 	https://vconlln.cn/categories/blog/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/categories/blog/index.html
-	hash=tl8MniTtNFJMdYLj7dAvPdEoMDwCyLdTl5E3uEv1SFM=
+	hash=66rPIKXwurpfqchkFZpinVEEr9vIRPFuy/IpUvXq6xU=
 
 /categories/index.html
 	https://vconlln.cn/categories/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/categories/index.html
-	hash=1hAa6QWrF5VQufRUNv9p5Tn4fS+ggKXttIl/S8spI10=
+	hash=ZW4jZtP8XGJ9wSCc2gLu/KWfcYe0r/mP0guGjDXvQq4=
 
 /CNAME
 	https://www.imaegoo.com/CNAME
@@ -74,66 +74,36 @@
 /content.json
 	https://vconlln.cn/content.json
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/content.json
-	hash=Xmq4SCb4YrZRa7QOwzjIgOfcWkD/j/OQoXXd8xlW5f0=
+	hash=ewnkJyKvBZfiyOzM8vfa9kceT9KrsczymsnYh32z7Q4=
 
 /css/cyberpunk.css
-	https://www.imaegoo.com/css/cyberpunk.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/cyberpunk.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/cyberpunk.css
 	https://vconlln.cn/css/cyberpunk.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/cyberpunk.css
-	hash=HaMBJyifynxwZUgRJdiYYLB7dVyQkfluL7Nhenxle3Y=
+	hash=urYIYxjCMuAiVoBsiApqPu9jAg8nQxNWmOlhntjK9QE=
 
 /css/default.css
-	https://www.imaegoo.com/css/default.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/default.css
-	https://www.imaegoo.com/css/style.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/style.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/default.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/style.css
 	https://vconlln.cn/css/default.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/default.css
 	https://vconlln.cn/css/style.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/style.css
-	hash=tTYt3ivegxFPt9gr0Bj7sSfHHRE6NFlEDyMRUysbLeM=
+	hash=mq9FTpH//CV36HkgCMwNdFsvBnnjJjO2z/qyWc5cq+A=
 
 /css/style.css
-	https://www.imaegoo.com/css/default.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/default.css
-	https://www.imaegoo.com/css/style.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/style.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/default.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/style.css
 	https://vconlln.cn/css/default.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/default.css
 	https://vconlln.cn/css/style.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/style.css
-	hash=tTYt3ivegxFPt9gr0Bj7sSfHHRE6NFlEDyMRUysbLeM=
+	hash=mq9FTpH//CV36HkgCMwNdFsvBnnjJjO2z/qyWc5cq+A=
 
 /css/font/font.css
-	https://www.imaegoo.com/css/font/font.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/font/font.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/font/font.css
 	https://vconlln.cn/css/font/font.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/font/font.css
-	hash=hUzO7AFKqLjs+OGs8lP5gljVLbinjYKyCkWc4tGRQe0=
+	hash=iHrQaJ5VE5dyRnpwkXQHA9wI3zcUurzGJGnHktgBB/Y=
 
 /css/font/fontawesome/css/all.min.css
-	https://ajax.cdnjs.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
-	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
-	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/font-awesome/5.15.4/css/all.min.css
-	https://lf6-cdn-tos.bytecdntp.com/cdn/expire-6-M/font-awesome/5.15.4/css/all.min.css
-	https://cdnjs.loli.net/ajax/libs/font-awesome/5.15.4/css/all.min.css
-	https://lib.baomitu.com/font-awesome/5.15.4/css/all.min.css
-	https://cdn.staticfile.org/font-awesome/5.15.4/css/all.min.css
-	https://cdn.bootcss.com/font-awesome/5.15.4/css/all.min.css
-	https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.4/css/all.min.css
-	https://www.imaegoo.com/css/font/fontawesome/css/all.min.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/font/fontawesome/css/all.min.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/font/fontawesome/css/all.min.css
 	https://vconlln.cn/css/font/fontawesome/css/all.min.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/font/fontawesome/css/all.min.css
-	hash=mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=
+	hash=YK/YUZpY/swnqrd1sW7vRSGNn+1l4MxmGox2ARz3nsI=
 
 /css/font/fontawesome/webfonts/fa-brands-400.eot
 	https://ajax.cdnjs.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot
@@ -487,18 +457,14 @@
 	hash=T0Uk9+GocHm8UKZGgfiAzPPm9dsexfwnlJN3Uyo4gdo=
 
 /css/hbe.style.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/hbe.style.css
 	https://vconlln.cn/css/hbe.style.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/hbe.style.css
-	hash=Zq2YC7GjV33HnAe2YDncFucz747w5PwhIteRVfGafdw=
+	hash=gPmjm4xA9No4bDTJ6Bzk1or/qun1Ac3DKwQqLrU+nrk=
 
 /css/imaegoo.css
-	https://www.imaegoo.com/css/imaegoo.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/imaegoo.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/imaegoo.css
 	https://vconlln.cn/css/imaegoo.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/imaegoo.css
-	hash=cL4CDCe0a+R9JeX+H0J5LgYMZn8aTeM6cUeWvTWD+gE=
+	hash=4FUpwjQeFuLZ7Wuhx+qRw2cbhhp+guNOr2bkZKU1kWg=
 
 /css/live2d/flat-ui-icons-regular.eot
 	https://ajax.cdnjs.com/ajax/libs/flat-ui/2.2.0/fonts/glyphicons/flat-ui-icons-regular.eot
@@ -569,25 +535,19 @@
 	hash=GP6AG/wVN2BEBpiRBnxAbbgTuKSDt6VsaAeRnnVt/V0=
 
 /css/live2d/waifu.css
-	https://www.imaegoo.com/css/live2d/waifu.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/live2d/waifu.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/live2d/waifu.css
 	https://vconlln.cn/css/live2d/waifu.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/live2d/waifu.css
-	hash=vZagZM5nE9PIe7GTVDZfA8JIMk7lmvpIJP+gT7Gimc0=
+	hash=B0641qmD74p99JvwVQ7wn3bvWgjuM8PAbrxM2NpbfOs=
 
 /css/night.css
-	https://www.imaegoo.com/css/night.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/css/night.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/css/night.css
 	https://vconlln.cn/css/night.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/css/night.css
-	hash=bGxWob1gVM5QgdsZrvINFvwuAbzeru7F6I3hRV+2ZC4=
+	hash=+2frEHET9/yolMvgyyByVx26viWm2LDACWJ3CZIyxjo=
 
 /friends/index.html
 	https://vconlln.cn/friends/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/friends/index.html
-	hash=w+DC84Ps3JTMjxpYyw1dDXAoCM31txJLsLvnXq/NzV0=
+	hash=YgHMOogWiCTWMEDJSbXXcpTJeqnbgNXW2Bxm2eGrsCg=
 
 /images/alipay.jpg
 	https://www.imaegoo.com/images/alipay.jpg
@@ -696,47 +656,32 @@
 /index.html
 	https://vconlln.cn/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/index.html
-	hash=5zhKqa5SirtyNxC2VaNirIEoRBAEPZV8jNPTKtw/alA=
+	hash=zETpYk+cVh/QNtCTUORyK9x2JBdEjUP3p1IXFo9ybS4=
 
 /js/algolia.js
-	https://www.imaegoo.com/js/algolia.js
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/algolia.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/algolia.js
 	https://vconlln.cn/js/algolia.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/algolia.js
-	hash=xDTyaYyOo0qbd36gm/VbzIlUzQpuTmLSisPWHcfEoTk=
+	hash=yNTXBgssxS+KnTk0YEeGzWOBZV8esbxmV0gPbiVnWFE=
 
 /js/animation.js
-	https://www.imaegoo.com/js/animation.js
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/animation.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/animation.js
 	https://vconlln.cn/js/animation.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/animation.js
-	hash=xmvXmdk/YhFh6nz0+pXN+CDVwpO8HcWLRv3XciKjr2U=
+	hash=/fB+DpOgKrhqiGaG9zgc6o3zL4gmUj44YGikyWjRCM0=
 
 /js/back_to_top.js
-	https://www.imaegoo.com/js/back_to_top.js
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/back_to_top.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/back_to_top.js
 	https://vconlln.cn/js/back_to_top.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/back_to_top.js
-	hash=hW+yxzlXGElQW00pCJ1s7tMXKDXpbQTZTrZqJw0QjfI=
+	hash=YdDlKkFKypNwuXYhtOT6Kc5tNrqtxL3ir1nGvCnoxaQ=
 
 /js/column.js
-	https://www.imaegoo.com/js/column.js
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/column.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/column.js
 	https://vconlln.cn/js/column.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/column.js
-	hash=agC/1c4cDwroyNcLrP4olErReKoEnAhfWbo88v9FrLs=
+	hash=XS2+gu3T2MK1idQF2I7BCMNKC7JrFvXIfyt+MZOxehw=
 
 /js/google_cse.js
-	https://www.imaegoo.com/js/google_cse.js
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/google_cse.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/google_cse.js
 	https://vconlln.cn/js/google_cse.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/google_cse.js
-	hash=/Ymf1afZ6IwkPwpXZ8crKfoHKecL/QCyHz3AGHxisYY=
+	hash=JNBcna+Rqyr6+fjOCIc28Aq4pZtAAjqgaEJm0PsPhDA=
 
 /js/imaegoo/clipboard/2.0.4/dist/clipboard.min.js
 	https://ajax.cdnjs.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js
@@ -757,21 +702,9 @@
 	hash=FiZwavyI2V6+EXO1U+xzLG3IKldpiTFf3153ea9zikQ=
 
 /js/imaegoo/cookieconsent/3.1.1/build/cookieconsent.min.css
-	https://ajax.cdnjs.com/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.css
-	https://cdnjs.cloudflare.com/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.css
-	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.css
-	https://lf6-cdn-tos.bytecdntp.com/cdn/expire-6-M/cookieconsent/3.1.1/cookieconsent.min.css
-	https://cdnjs.loli.net/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.css
-	https://lib.baomitu.com/cookieconsent/3.1.1/cookieconsent.min.css
-	https://cdn.staticfile.org/cookieconsent/3.1.1/cookieconsent.min.css
-	https://cdn.bootcss.com/cookieconsent/3.1.1/cookieconsent.min.css
-	https://cdn.bootcdn.net/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.css
-	https://www.imaegoo.com/js/imaegoo/cookieconsent/3.1.1/build/cookieconsent.min.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/imaegoo/cookieconsent/3.1.1/build/cookieconsent.min.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/imaegoo/cookieconsent/3.1.1/build/cookieconsent.min.css
 	https://vconlln.cn/js/imaegoo/cookieconsent/3.1.1/build/cookieconsent.min.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/imaegoo/cookieconsent/3.1.1/build/cookieconsent.min.css
-	hash=zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=
+	hash=inJzCCygaRjJq7ylfc9/UEuHTXJKe1nR2JPhekUm5J4=
 
 /js/imaegoo/cookieconsent/3.1.1/build/cookieconsent.min.js
 	https://ajax.cdnjs.com/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.js
@@ -7109,21 +7042,9 @@
 	hash=9ja9bjrr+HCCoDHrTHL4Syezb8fe/kWMCRqH6tiN5uQ=
 
 /js/imaegoo/highlight.js/11.7.0/styles/brown-paper.css
-	https://ajax.cdnjs.com/ajax/libs/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://lf6-cdn-tos.bytecdntp.com/cdn/expire-6-M/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://cdnjs.loli.net/ajax/libs/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://lib.baomitu.com/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://cdn.staticfile.org/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://cdn.bootcss.com/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://cdn.bootcdn.net/ajax/libs/highlight.js/11.0.0-beta1/styles/brown-paper.min.css
-	https://www.imaegoo.com/js/imaegoo/highlight.js/11.7.0/styles/brown-paper.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/imaegoo/highlight.js/11.7.0/styles/brown-paper.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/imaegoo/highlight.js/11.7.0/styles/brown-paper.css
 	https://vconlln.cn/js/imaegoo/highlight.js/11.7.0/styles/brown-paper.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/imaegoo/highlight.js/11.7.0/styles/brown-paper.css
-	hash=J2k3wqE5R2rxkOjin71TYDrBqOeXhu4zXJJAuWG4l3o=
+	hash=Y4S+0JMmBNU8kgKzosdf0fb3xzuG3V4/jHbPajMTXqs=
 
 /js/imaegoo/highlight.js/11.7.0/styles/brown-papersq.png
 	https://ajax.cdnjs.com/ajax/libs/highlight.js/10.1.2/styles/brown-papersq.png
@@ -7808,21 +7729,9 @@
 	hash=7xAwMtD6yDLK+NIxVd5hzyq623KmpiEopOE6AncXY0c=
 
 /js/imaegoo/highlight.js/11.7.0/styles/pojoaque.css
-	https://ajax.cdnjs.com/ajax/libs/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://lf6-cdn-tos.bytecdntp.com/cdn/expire-6-M/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://cdnjs.loli.net/ajax/libs/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://lib.baomitu.com/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://cdn.staticfile.org/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://cdn.bootcss.com/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://cdn.bootcdn.net/ajax/libs/highlight.js/11.0.0-beta1/styles/pojoaque.min.css
-	https://www.imaegoo.com/js/imaegoo/highlight.js/11.7.0/styles/pojoaque.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/imaegoo/highlight.js/11.7.0/styles/pojoaque.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/imaegoo/highlight.js/11.7.0/styles/pojoaque.css
 	https://vconlln.cn/js/imaegoo/highlight.js/11.7.0/styles/pojoaque.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/imaegoo/highlight.js/11.7.0/styles/pojoaque.css
-	hash=iP9p4sD3vxDcYCUEOuWO4eIEN7Ds7lm0DJybei3Z67w=
+	hash=4TjjeuzxgGa6OoQxEiF/y64cqNWbIqTYhy8tyk24vy0=
 
 /js/imaegoo/highlight.js/11.7.0/styles/pojoaque.jpg
 	https://ajax.cdnjs.com/ajax/libs/highlight.js/9.18.1/styles/pojoaque.jpg
@@ -8239,50 +8148,18 @@
 	hash=3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=
 
 /js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
-	https://ajax.cdnjs.com/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://lf6-cdn-tos.bytecdntp.com/cdn/expire-6-M/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdnjs.loli.net/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://lib.baomitu.com/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdn.staticfile.org/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdn.bootcss.com/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdn.bootcdn.net/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://unpkg.com/justifiedGallery@3.8.1/dist/css/justifiedGallery.css
-	https://www.imaegoo.com/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
-	https://www.imaegoo.com/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
 	https://vconlln.cn/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
 	https://vconlln.cn/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
-	hash=YBy2rK4TkyaeKbMYUy56/rUERtR7sMEmkQvDr9EuHUQ=
+	hash=9Z4Sg/CA2MDsPCqVh8lxNLDb/etMCCS23sGBPE83GSk=
 
 /js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
-	https://ajax.cdnjs.com/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://lf6-cdn-tos.bytecdntp.com/cdn/expire-6-M/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdnjs.loli.net/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://lib.baomitu.com/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdn.staticfile.org/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdn.bootcss.com/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://cdn.bootcdn.net/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.css
-	https://unpkg.com/justifiedGallery@3.8.1/dist/css/justifiedGallery.css
-	https://www.imaegoo.com/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
-	https://www.imaegoo.com/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
 	https://vconlln.cn/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.min.css
 	https://vconlln.cn/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/imaegoo/justifiedGallery/3.8.1/dist/css/justifiedGallery.css
-	hash=YBy2rK4TkyaeKbMYUy56/rUERtR7sMEmkQvDr9EuHUQ=
+	hash=9Z4Sg/CA2MDsPCqVh8lxNLDb/etMCCS23sGBPE83GSk=
 
 /js/imaegoo/justifiedGallery/3.8.1/dist/js/jquery.justifiedGallery.js
 	https://ajax.cdnjs.com/ajax/libs/justifiedGallery/3.8.1/js/jquery.justifiedGallery.js
@@ -8358,22 +8235,9 @@
 	hash=m2BveOTrDMqL3G9WRfq1GxTibJ9wZNkU/bqPW+sjE4M=
 
 /js/imaegoo/lightgallery/1.10.0/dist/css/lightgallery.min.css
-	https://ajax.cdnjs.com/ajax/libs/lightgallery/1.8.3/css/lightgallery.min.css
-	https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.8.3/css/lightgallery.min.css
-	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/lightgallery/1.8.3/css/lightgallery.min.css
-	https://lf6-cdn-tos.bytecdntp.com/cdn/expire-6-M/lightgallery/1.8.3/css/lightgallery.min.css
-	https://cdnjs.loli.net/ajax/libs/lightgallery/1.8.3/css/lightgallery.min.css
-	https://lib.baomitu.com/lightgallery/1.8.3/css/lightgallery.min.css
-	https://cdn.staticfile.org/lightgallery/1.8.3/css/lightgallery.min.css
-	https://cdn.bootcss.com/lightgallery/1.8.3/css/lightgallery.min.css
-	https://cdn.bootcdn.net/ajax/libs/lightgallery/1.8.3/css/lightgallery.min.css
-	https://unpkg.com/lightgallery@1.8.3/dist/css/lightgallery.min.css
-	https://www.imaegoo.com/js/imaegoo/lightgallery/1.10.0/dist/css/lightgallery.min.css
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/imaegoo/lightgallery/1.10.0/dist/css/lightgallery.min.css
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/imaegoo/lightgallery/1.10.0/dist/css/lightgallery.min.css
 	https://vconlln.cn/js/imaegoo/lightgallery/1.10.0/dist/css/lightgallery.min.css
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/imaegoo/lightgallery/1.10.0/dist/css/lightgallery.min.css
-	hash=L17StzR9gFWAuelz9D9pmNDTieyml52nv+rPNRrncr0=
+	hash=HbX1lHCSuUY5s5L8QI5+oqOXoRhNS7lc3TWOw3aTFsQ=
 
 /js/imaegoo/lightgallery/1.10.0/dist/fonts/lg.svg
 	https://ajax.cdnjs.com/ajax/libs/lightgallery/1.8.0/fonts/lg.svg
@@ -8975,12 +8839,9 @@
 	hash=YDheUA2CkYFaq0Ix1H3In9+uPHQJppJizDcjLMiaEmk=
 
 /js/insight.js
-	https://www.imaegoo.com/js/insight.js
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/insight.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/insight.js
 	https://vconlln.cn/js/insight.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/insight.js
-	hash=O6tzdl3fYh2DuSUTDNQwGRURN6dnKzziwfNKzUygLBg=
+	hash=sM6b3Gz450eSc2mFxMemYEA6R6dhp+bG9R0S+tfIBCY=
 
 /js/live2d/autoload.js
 	https://www.imaegoo.com/js/live2d/autoload.js
@@ -9015,26 +8876,19 @@
 	hash=h2alRiNuf+fHPWifjGDvWYGsDXkWYbOzXB0fIGNUyc4=
 
 /js/main.js
-	https://www.imaegoo.com/js/main.js
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/main.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/main.js
 	https://vconlln.cn/js/main.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/main.js
-	hash=JaoG1DV2qEHeXeM1isJODmIuTm8kknPgnGIC7Mnd/gA=
+	hash=NgLeSn4xP99JWroG/7eKisyqZVWWKh4P2hCIVHr12eI=
 
 /js/toc.js
-	https://www.imaegoo.com/js/toc.js
-	https://cdn.jsdelivr.net/gh/imaegoo/imaegoo.github.io@master/js/toc.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/js/toc.js
 	https://vconlln.cn/js/toc.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/js/toc.js
-	hash=ShXHrZAGUzV40fWN1dl15NQ4596r8xX+FM6knQDD+as=
+	hash=+pZAwdeRcHIhhJkvrS0bCeumNUyiuERXk+rBPtThjFM=
 
 /lib/hbe.js
-	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@master/lib/hbe.js
 	https://vconlln.cn/lib/hbe.js
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/lib/hbe.js
-	hash=G/cvemtTdjuiLUEh371cN45wP42yhmbp1hPIH0eL7Ik=
+	hash=Lk/LUfy1E3acwpT7vvRl21gtK3BAZltPAW6yczaVsXI=
 
 /manifest.json
 	https://www.imaegoo.com/manifest.json
@@ -9047,31 +8901,31 @@
 /messages/index.html
 	https://vconlln.cn/messages/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/messages/index.html
-	hash=U5ES59FAFMn9OkuRwleh9ZjoTlGacM6X5zb6H4e5YrE=
+	hash=c55TdtowPiH1/SwAt7QvT/6bQnWjz9eouG220tBOgNk=
 
 /self-talking/index.html
 	https://vconlln.cn/self-talking/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/self-talking/index.html
-	hash=iMaXweRw7qrSwGw9NK76xWUccYIxvgSGNk36mFlorOA=
+	hash=B5pcNbsrUBg4O29aT+pOLBR24bsb8Xc8So/4jHFoN9Q=
 
 /tags/Archlinux/index.html
 	https://vconlln.cn/tags/Archlinux/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/tags/Archlinux/index.html
-	hash=CGxV1FBbPSnS3u5mh5rL5fidV4ByziDQ+C/bBmSkYbA=
+	hash=HQqDhtYfK/vpDb0CQcbiLa6cqIErNXue2xZyO7aZKYk=
 
 /tags/blog/index.html
 	https://vconlln.cn/tags/blog/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/tags/blog/index.html
-	hash=Qv1iywyBgeouMoxHjVzXmYgg6ois2L8hMX0Xk/cbqvI=
+	hash=VaWjvkQSK8ZsGqWsBliGdqIrPMyh6qiYFtg/w5tJelw=
 
 /tags/css/index.html
 	https://vconlln.cn/tags/css/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/tags/css/index.html
-	hash=sHmqWpwVqt+PF6xmNm+UDRHUTig74I7YRtvAuXvEgIk=
+	hash=EtgCMuWGno9jtc+0ct7XQgz+r3+RBLvZczvndVp4UvQ=
 
 /tags/index.html
 	https://vconlln.cn/tags/index.html
 	https://cdn.jsdelivr.net/gh/vconlln/vconlln.github.io@main/tags/index.html
-	hash=rhCyclj4YbTe26i7bSJzFeK81DkXaNBozbOSEcQtUCI=
+	hash=VnOWVUrjqw93/FyPbBC5bssHXXqqkz1GOJxS5YbCCLk=
 
-# SIGN: ddiIJ57trFhJdZxwr4wtE20ZanS9DORRZA33DfIr1S1XVPC0shfUt1FXnG0cAFGwnYwa+IFwOIRZTjlTaJcxRw==
+# SIGN: miMWeQFE80CEOoAoQiHW+DbAZVDBqCldDWpfaA1AnbPsOqCYn/PyMNXE93CkC/79suzZ0eDsA9Sa19Biy7fA5A==
