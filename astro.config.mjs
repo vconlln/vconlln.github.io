@@ -1,3 +1,4 @@
+// @ts-check
 import sitemap from '@astrojs/sitemap';
 import svelte from "@astrojs/svelte"
 import tailwind from "@astrojs/tailwind"
@@ -31,8 +32,8 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://vconlln.github.io",
-  base: "my-repo",
+  site: "https://fuwari.vercel.app/",
+  base: "/",
   trailingSlash: "always",
   integrations: [
     tailwind(),
