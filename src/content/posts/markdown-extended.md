@@ -1,46 +1,47 @@
 ---
-title: Markdown Extended Features
-published: 2024-05-01
-description: 'Read more about Markdown features in Fuwari'
+title: Markdown 扩展功能
+published: 2023-05-01
+description: '了解有关 Markdown 功能的更多信息'
 image: ''
-tags: [Demo, Example, Markdown, Fuwari]
+tags: [Markdown]
 category: 'Examples'
 draft: false 
 ---
 
-## GitHub repository cards
-You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API. 
+## GitHub 存储库卡片
 
-::github{repo="Fabrizz/MMM-OnSpotify"}
+您可以添加链接到 GitHub 存储库的动态卡片，在页面加载时，存储库信息将从 GitHub API 中提取。
 
-Create a GitHub repository card with the code `::github{repo="<owner>/<repo>"}`.
+::github{repo="vconlln/vconll.github.io"}
+
+使用代码创建 GitHub 存储库卡 `::github{repo="<owner>/<repo>"}`.
 
 ```markdown
-::github{repo="saicaca/fuwari"}
+::github{repo="vconlln/vconll.github.io"}
 ```
 
-## Admonitions
+## 警告
 
-Following types of admonitions are supported: `note` `tip` `important` `warning` `caution`
+支持以下类型的警告: `note` `tip` `important` `warning` `caution`
 
 :::note
-Highlights information that users should take into account, even when skimming.
+突出显示用户应该考虑的信息，即使用户浏览时也应考虑。
 :::
 
 :::tip
-Optional information to help a user be more successful.
+帮助用户取得更大成功的可选信息。
 :::
 
 :::important
-Crucial information necessary for users to succeed.
+用户成功所必需的关键信息。
 :::
 
 :::warning
-Critical content demanding immediate user attention due to potential risks.
+由于存在潜在风险，关键内容需要用户立即关注。
 :::
 
 :::caution
-Negative potential consequences of an action.
+某一行为可能产生的负面后果。
 :::
 
 ```markdown
@@ -53,25 +54,26 @@ Optional information to help a user be more successful.
 :::
 ```
 
-The title of the admonition can be customized.
+警告的标题可以自定义。
 
-:::note[MY CUSTOM TITLE]
-This is a note with a custom title.
+:::note[我的自定义标题]
+这是一条带有自定义标题的注释。
 :::
 
 ```markdown
-:::note[MY CUSTOM TITLE]
-This is a note with a custom title.
+:::note[我的自定义标题]
+这是一条带有自定义标题的注释。
 :::
 ```
 
 > [!TIP]
-> [The GitHub syntax](https://github.com/orgs/community/discussions/16925) is also supported.
+> [GitHub 语法](https://github.com/orgs/community/discussions/16925)也受支持。
 
 ```
 > [!NOTE]
-> The GitHub syntax is also supported.
+> GitHub 语法也受支持。
 
 > [!TIP]
-> The GitHub syntax is also supported.
+> GitHub 语法也受支持。
 ```
+

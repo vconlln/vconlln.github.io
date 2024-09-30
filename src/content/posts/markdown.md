@@ -1,52 +1,45 @@
 ---
-title: Markdown Example
+title: Markdown示例
 published: 2023-10-01
-description: A simple example of a Markdown blog post.
-tags: [Markdown, Blogging, Demo]
+description: Markdown 博客文章的一个简单示例。
+tags: [Markdown]
 category: Examples
 draft: false
 ---
 
-# An h1 header
+# An h1 标题
 
-Paragraphs are separated by a blank line.
+段落之间以空行分隔。
 
-2nd paragraph. _Italic_, **bold**, and `monospace`. Itemized lists
+第二段。 _*斜体*_, **粗体**, and `monospace`。分项列表如下：
 look like:
 
 - this one
 - that one
 - the other one
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
+请注意 --- 不考虑星号 --- 实际文本内容从第 4 列开始。
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+> 块引用的写法如下。
+> 
+>如果您愿意，它们可以跨越多个段落。
 
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+使用 3 个破折号表示长破折号。使用 2 个破折号表示范围（例如，“全部在第 12-14 章中”）。三个点...将转换为省略号。支持 Unicode。☺
 
-## An h2 header
+## An h2 标题
 
-Here's a numbered list:
+以下是一个编号列表：
 
-1. first item
-2. second item
-3. third item
+1. 第一项
+2. 第二项
+3. 第三项
 
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
+请再次注意实际文本如何从第 4 列开始（左侧 4 个字符）。以下是代码示例：
 
     # Let me re-iterate ...
     for i in 1 .. 10 { do-something(i) }
 
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
+你可能已经猜到了，缩进 4 个空格。顺便说一句，如果你愿意，你可以使用分隔块，而不是缩进块：
 
 ```
 define foobar() {
@@ -54,8 +47,7 @@ define foobar() {
 }
 ```
 
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
+（这使得复制和粘贴更容易）。您可以选择标记分隔块，以便 Pandoc 语法高亮显示它：
 
 ```python
 import time
@@ -66,7 +58,7 @@ for i in range(10):
     print i
 ```
 
-### An h3 header
+### An h3 标题
 
 Now a nested list:
 
