@@ -141,6 +141,13 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"posts": {
+"Shamir秘密分享.md": {
+	id: "Shamir秘密分享.md";
+  slug: "shamir秘密分享";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "draft.md": {
 	id: "draft.md";
   slug: "draft";
@@ -172,6 +179,13 @@ declare module 'astro:content' {
 "video.md": {
 	id: "video.md";
   slug: "video";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"数据结构.md": {
+	id: "数据结构.md";
+  slug: "数据结构";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">

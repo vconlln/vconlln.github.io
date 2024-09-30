@@ -1,12 +1,13 @@
 ---
 title: Shamir秘密分享
+description: '牛顿：我站在巨人的肩膀上！而我：我站在牛顿的肩膀上！'
 published: 2024-05-28
 tags: [密码学]
-categories: '密码'
+categories: '密码学'
 abbrlink: 'shamir'
+draft: false 
 ---
-牛顿：我站在巨人的肩膀上！
-而我：我站在牛顿的肩膀上！
+
 <!--more-->
 
 # 门限密码
@@ -23,16 +24,14 @@ abbrlink: 'shamir'
 
 上述过程称为 $t$ 阶 $\mathrm{SS}$, 并称多项式 $f(x)$ 为分享多项式. 此时, 任意 $t+1$ 个参与者集合 $Q$ 可通过拉格朗日插值公式 ：
 
-$$P_n(x)=\sum_{i=1}^n y_i\left(\prod_{j \neq i}^{1 \leq j \leq n} \frac{\left(x-x_j\right)}{\left(x_i-x_j\right)}\right)$$
-
+$$
+P_n(x)=\sum_{i=1}^n y_i\left(\prod_{j \neq i}^{1 \leq j \leq n} \frac{\left(x-x_j\right)}{\left(x_i-x_j\right)}\right)
+$$
 恢复出秘密。
-
-{% raw %}<article class="message is-info"><div class="message-body">{% endraw %}
 📑 解释一下：
+
  - $y_i$ 就是对应函数值。
  - 后面那一驼就是除去选定的第$i$个值的横坐标，其余横坐标相乘。
-
-{% raw %}</div></article>{% endraw %}
 
 举个🌰：
 
